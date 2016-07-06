@@ -1,9 +1,4 @@
-.twitter-feed {
-	width: 50%;
-	height: 50vh;
-	overflow: auto;
-}
-
-#twitter-feed-wrapper {
-	overflow: hidden;
+html, body {
+  width: auto;
+  overflow-x: hidden;
 }
